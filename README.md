@@ -1,2 +1,0 @@
-# PastelishQ
-Created with CodeSandbox
